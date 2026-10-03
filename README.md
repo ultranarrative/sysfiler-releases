@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="SysFiler: A file manager with a CRT glow." width="100%">
+</p>
+
 # SysFiler
 
-**A file manager with a CRT glow.** Move through your files from the keyboard, search names and contents, and lock sensitive files with AES-256-GCM encryption.
+**A file manager with a CRT glow.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Move through your files from the keyboard, search names and contents, and lock sensitive files with AES-256-GCM encryption.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
